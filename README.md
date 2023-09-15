@@ -2,7 +2,7 @@
 
 # Cristina Dias from Brazil 🇧🇷
 
-I've been working as Full-Stack Developer and currently I'm Freelancer at [Web Now](https://www.webnow.site/). 
+I've been working as Full-Stack Developer and currently I'm Freelancer and my [CV](https://crisgit.github.io/cv). 
 
 I'm passionate about open source projects and enthusiast in javascript and among many other technologies that are on my Github. :octocat:
 
