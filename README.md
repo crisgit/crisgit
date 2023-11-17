@@ -71,20 +71,33 @@ My friends were laughing when I said that phrase, and would you like to know mor
 <hr>
 
 <div width="100%" align="center">
+
+  ## 🏆 GitHub Trophies
   
   ![Github Trophy](https://github-profile-trophy.vercel.app/?username=crisgit&theme=dracula&column=5&margin-w=15&margin-h=15)
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisgit&show_icons=true&locale=en&layout=compact" alt="crisgit" /></p>
 
 </div>
 
 <div width="100%" align="center">
+
+  ## 📊 GitHub Stats:
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisgit&show_icons=true&locale=en&layout=compact" alt="crisgit" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisgit&show_icons=true&locale=en" alt="crisgit" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisgit" alt="crisgit" /></p>
 
 </div>
+
+<div width="100%" align="center">
+    
+  ## 🔝 Top Contributed Repo
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=crisgit&limit=5&theme=flat&combine_all_yearly_contributions=true)
+  
+</div>
+
 
 
 So, contact me:
