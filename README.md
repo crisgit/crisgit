@@ -71,18 +71,21 @@ My friends were laughing when I said that phrase, and would you like to know mor
 <hr>
 
 <div width="100%" align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisgit&show_icons=true&locale=en&layout=compact" alt="crisgit" /></p>
+  
+  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=crisgit&theme=dracula&column=5&margin-w=15&margin-h=15)
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisgit&show_icons=true&locale=en" alt="crisgit" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crisgit&show_icons=true&locale=en&layout=compact" alt="crisgit" /></p>
 
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=crisgit" alt="crisgit" /></p>
 </div>
 
 <div width="100%" align="center">
-  
-  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=crisgit&theme=dracula&column=3&margin-w=15&margin-h=15)
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisgit&show_icons=true&locale=en" alt="crisgit" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisgit" alt="crisgit" /></p>
 
 </div>
+
 
 So, contact me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristina-d)](https://www.linkedin.com/in/cristina-d)
