@@ -134,7 +134,7 @@ My friends were laughing when I said that phrase, and would you like to know mor
   <tbody align="center">
     <tr>
       <td>
-       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisgit&show_icons=true&locale=en" alt="crisgit" /></p>
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisgit&rank_icon=percentile&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&locale=en" alt="crisgit" /></p>
       </td>
       <td>
        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisgit" alt="crisgit" /></p>
